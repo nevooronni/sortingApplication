@@ -85,7 +85,7 @@ input.btn {
 }
 
 #dict {
-  margin-top: -20%;
+  margin-top: -1%;
 }
 
 #button {
@@ -103,5 +103,10 @@ input.btn {
 }
 
 #ultimatum {
-  margin-top: 6%;
+  margin-top: -22%;
+}
+
+#result {
+  margin-top: -10%;
+  height: 70px;
 }
